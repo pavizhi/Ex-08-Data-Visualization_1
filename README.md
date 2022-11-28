@@ -250,52 +250,93 @@ plt.show()
 ![](./o3.png)
 ![](./o4.png)
 ## Line PLot:
+
 ![](./o5.png)
+
 ![](./o6.png)
+
 ![](./o7.png)
+
 ![](./o8.png)
+
 ![](./o9.png)
+
 ![](./o10.png)
+
 ## Bar PLot:
 ![](./o11.png)
+
 ![](./o12.png)
+
 ![](./o13.png)
+
 ![](./o14.png)
+
 ![](./o15.png)
+
 ![](./o16.png)
+
 ## Histograms:
+
 ![](./o17.png)
+
 ![](./o18.png)
+
 ![](./o19.png)
+
 ![](./o20.png)
+
 ## Count plots:
+
 ![](./o21.png)
+
 ![](./o22.png)
+
 ![](./o23.png)
+
 ![](./o24.png)
+
 ![](./o25.png)
+
 ## Bar Charts:
+
 ![](./o26.png)
+
 ![](./o27.png)
+
 ![](./o28.png)
+
 ![](./o29.png)
+
 ![](./o30.png)
+
 ![](./o31.png)
+
 ## KDE Plots:
+
 ![](./o32.png)
+
 ![](./o33.png)
+
 ## Violin Plot:
 ![](./o34.png)
+
 ![](./o35.png)
 ## Point Plots:
 ![](./o36.png)
+
 ![](./o37.png)
 ## Pie Charts:
 ![](./o38.png)
+
 ![](./o39.png)
+
 ![](./o40.png)
+
 ![](./o41.png)
+
 ![](./o42.png)
+
 ![](./o43.png)
 ## HeadMap:
 ![](./o44.png)
